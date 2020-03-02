@@ -19,12 +19,10 @@ Performed data analysis and created visualizations on a rural, sub-urban, and ur
 
 * Approximately 81 percent of Pyber drivers work in urban areas, where the average fares and volume of rides are significantly higher than the rural areas  (refer to % of Total Fares and Rides by City Type Pie Charts). Suburban areas have consistently fell into the middle ranges, bridging the gap between the urban and rural cities in terms of average fares, total volumes, and even in the type of cites Pyber drivers choose to work.
 
-[Ride Sharing Chart](Pyber_RideShare_Scatter.png)
+![Ride Sharing Chart](images/Pyber_RideShare_Scatter.png)
 
-[Total Drivers By City Type](Pyber_TotalDrivers_CityType.png)
+![Total Drivers By City Type](images/Pyber_TotalDrivers_CityType.png)
 
-[Total Drivers By City Type](Pyber_TotalDrivers_CityType.png)
+![Total Fares By City Type](images/Pyber_TotalFares_CityType.png)
 
-[Total Fares By City Type](Pyber_TotalFares_CityType.png)
-
-[Total Rides By City Type](Pyber_TotalRides_CityType.png)
+![Total Rides By City Type](images/Pyber_TotalRides_CityType.png)
