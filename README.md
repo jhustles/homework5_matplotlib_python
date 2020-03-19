@@ -1,9 +1,24 @@
 # Pyber, A Ride-Sharing Company,  Data Analysis & Visualization
 
+![Ride Sharing Image](images/intro_logo.png)
+
 ## Project Scope:
 Performed data analysis and created visualizations on a rural, sub-urban, and urban city ride-sharing data collected by the parent company using Python, Pandas, Matplotlib, and Jupyter Notebook.
 
-## Findings:
+### Prerequisites
+
+* Python 3
+* Jupyter Notebook
+
+## Getting Started
+
+* Download the repository
+* Using Jupyter Notebook, open up the "python+pandas_matplotlib_pyber_analysis.ipynb"
+* Clear and Restart the Kernel
+* Run each cell and the the analysis and charts will come out as the output in the Jupyter Notebook, and the images will be saved where you cloned the repository on your computer.
+
+
+## Analysis Findings:
 
 ### The data suggests the following:
 
